@@ -30,6 +30,7 @@ To run this notebook, you will need the following Python libraries:
 ## 📊 Results / Key Findings
 
 **Public Kaggle score achieved:** 0.75992
+
 **Private Kaggle score achieved:** 0.77398
 
 ## 🤝 Contributing
